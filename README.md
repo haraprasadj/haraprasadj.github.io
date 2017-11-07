@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Tale
+Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
 
-You can use the [editor on GitHub](https://github.com/haraprasadj/haraprasadj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
+- Compatible with GitHub Pages
+- Responsive design (looks just as good on mobile)
+- Syntax highlighting, with the help of Pygments
+- Markdown and HTML text formatting
+- Pagination of posts
 
-### Markdown
+## Usage
+### 1. Fork and Clone
+Fork this repository then clone it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. Install dependencies
+Tale uses Jekyll's built-SCSS compiler to generate CSS. You'll need to install the Jekyll gem:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+$ gem install jekyll
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. Create your site
+Edit the `_config.yml` file to suit your site. Also replace posts and content with your own.
 
-### Jekyll Themes
+### 4. Running Locally
+To test your site locally, run this in your site's root directory
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haraprasadj/haraprasadj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```bash
+$ jekyll serve --watch
+```
 
-### Support or Contact
+Head to http://localhost:4000/tale/ to see your site in action.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributing
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
+
+## License
+See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
