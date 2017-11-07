@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Hara's Blog
 paginate:       25
 baseurl:        "/"
 url:            "https://haraprasadj.github.io"
