@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Hara's Blog
 paginate:       25
-baseurl:        "/"
+baseurl:        ""
 url:            "https://haraprasadj.github.io"
 
 # Assets
@@ -27,5 +27,5 @@ github:
   repo:         https://github.com/haraprasadj
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
