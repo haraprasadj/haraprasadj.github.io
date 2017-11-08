@@ -20,11 +20,13 @@ author:
   name:         Hara Prasad J
   url:          http://www.haraprasad.com
   email:        haraprasad@gmail.com
+  github:       haraprasadj
+  linkedin:     haraprasadj
+  twitter:      haraprasad_j
+  stackoverflow: 4230286/haraprasadj
 
 # Custom vars
 version:        3.4.1
-github:
-  repo:         https://github.com/haraprasadj
 
 # Gems
 plugins:
