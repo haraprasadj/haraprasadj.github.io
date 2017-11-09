@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'AMPlify' employee motivation"
-categories: [management]
+categories: [Management]
 ---
 
 What motivates an employee to come in to work day after day and deliver high quality work? This must have been one of the most researched topics in management.  
