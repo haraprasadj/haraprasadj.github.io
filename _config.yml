@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Hara's Log
-paginate:       10
+paginate:       5
 baseurl:        ""
 url:            "https://haraprasadj.github.io"
 

@@ -6,7 +6,8 @@ title: Home
 <div class="catalogue">
     <br>
     {% for category in site.categories %}
-    <a href="/category/{{ category[0] }}">{{ category[0] | capitalize }}({{ category[1].size }})&emsp;</a>
+    {{category[0].title}}
+    <a href="/category/{{ category[0] }}">{{ category[0] }}({{ category[1].size }})&emsp;</a>
     {% endfor %}
 
     {% for post in paginator.posts %}
