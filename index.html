@@ -7,7 +7,7 @@ title: Home
     <br>
     {% for category in site.categories %}
     {{category[0].title}}
-    <a href="/category/{{ category[0] }}">{{ category[0] }}({{ category[1].size }})&emsp;</a>
+    <a href="/category/{{ category[0] | downcase }}">{{ category[0] }}({{ category[1].size }})&emsp;</a>
     {% endfor %}
 
     {% for post in paginator.posts %}
