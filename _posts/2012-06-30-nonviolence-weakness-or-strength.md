@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Nonviolence - Weakness Of The Heart OR Strength Of The Mind ?
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Every time I watch National Geographic channel showing a wild animal in the process of a hunt, 

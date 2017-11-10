@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: SHE - 21st Century's Common Pronoun  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Common pronoun - what does it even mean? Well, it is the pronoun used commonly when

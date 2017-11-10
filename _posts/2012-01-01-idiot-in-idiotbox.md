@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Who Is 'Idiot' In Idiotbox ?   
-categories: [Writing]  
+categories: [Writings]  
 ---
 
 ![idiotbox]({{ "/assets/2012-01-01-idiot-in-idiotbox.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  

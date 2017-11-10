@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: History Vs Mythology  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 I have always wondered why the mythology of civilizations of a period all seem similar in 
