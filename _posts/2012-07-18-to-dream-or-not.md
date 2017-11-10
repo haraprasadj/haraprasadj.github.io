@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: To Dream Or Not To Dream 
-categories: [Writing]  
+categories: [Writings]  
 ---
 
 The vision of a distant dream overpowers the mind preventing it from recognizing the current 

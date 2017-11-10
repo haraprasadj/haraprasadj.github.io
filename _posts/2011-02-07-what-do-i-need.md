@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: What Do I Need ?  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 ![need_vs_greed]({{ "/assets/2011-02-07-what-do-i-need.jpeg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  

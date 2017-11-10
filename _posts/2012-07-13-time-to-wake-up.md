@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: It is time to wake up !
-categories: [Writing]  
+categories: [Writings]  
 ---
 
 We dissect, dissect into sects  

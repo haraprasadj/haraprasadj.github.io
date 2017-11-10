@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: The Dilemma
-categories: [Writing]  
+categories: [Writings]  
 ---
 
 There are times when I think I must hold on  

@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Blogging From Mobile  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Testing blogger application for Android. It is not bad at all. It is really amazing to consider 

@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Pain Makes Me Write  
-categories: [Writing]  
+categories: [Writings]  
 ---
 
 I write  

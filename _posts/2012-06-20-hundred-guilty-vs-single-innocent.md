@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Hundred guilty Vs. Single innocent 
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Let a hundred guilty escape but let not one innocent be punished. This is the philosophy behind

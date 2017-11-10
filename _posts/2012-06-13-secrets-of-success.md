@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Secrets of Success !  
-categories: [Learning]  
+categories: [Learnings]  
 ---
 
 here was a time when I used to read the so-called "Secrets of Success". I used to be enamored 

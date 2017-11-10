@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Hunger For Power  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 What does a human being strive for? Simple - food, clothing and shelter.  
