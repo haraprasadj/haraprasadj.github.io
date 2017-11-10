@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Wise Or Dead ? 
-categories: [Life]  
+categories: [Writing]  
 ---
 
 Deep in a Cameroonian forest, there lived a stink ant (let's call him Uno) in a colony of 
