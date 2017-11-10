@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Train Of Thought
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Sheldon: I've been thinking about Dr. Green's efforts to make science palatable for the masses.  

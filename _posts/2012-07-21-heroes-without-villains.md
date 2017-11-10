@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Heroes Without Villiains  
-categories: [Musing]  
+categories: [Musings]  
 ---
 
 Every movie we watch, particularly action movies, are about the good guy(s) trumping the bad 

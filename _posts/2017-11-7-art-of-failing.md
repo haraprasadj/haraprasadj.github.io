@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Failing
-categories: [Learning]
+categories: [Learnings]
 ---
 
 ![Failure_is_a_bruise]({{ "/assets/2017-11-7-art-of-failing.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
