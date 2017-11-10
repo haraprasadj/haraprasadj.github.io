@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating A CSV File Using Excel Object Model
-categories: [Software Testing, VBScript]
+categories: [VBScript]
 ---
 
 We come across csv files in testing all the time. Usually they are treated as text files for 

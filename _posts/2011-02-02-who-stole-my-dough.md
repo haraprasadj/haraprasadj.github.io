@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Who Stole My Dough ?  
-categories: [Life]  
+categories: [Learning]  
 ---
 
 ![Who_stole_my_money]({{ "/assets/2011-02-02-who-stole-my-dough.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
@@ -39,7 +39,7 @@ as well.
 My opinion was that reducing fuel prices would have reduced all types of inflation.I found it 
 funny when I noticed the petroleum companies announced excellent results. Fuel prices were 
 increased since they were in losses which resulted in this extraordinary inflation which 
-ruined the margins, hence the results, of all other companies. So to help petroleum companies 
+ruined the margins, hence the results, of all other companies. So helping petroleum companies 
 gain profits means bringing down all other companies' profits.  
 
 Anyway, this was just a thought I had on my mind. 

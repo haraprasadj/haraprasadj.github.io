@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who is the one person we must impress?"
-categories: [Life]
+categories: [Learning]
 ---
 
 To be successful at work, we need strong supporters. Thus begins our hunt for influencers and power circles. But who is the one person we must impress?  
