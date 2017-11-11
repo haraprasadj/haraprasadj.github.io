@@ -16,5 +16,5 @@ But I alone can perceive the feeling
 
 I had no idea  
 No idea that to be a writer  
-All I need to do was to suffer  
+All I needed to do was to suffer  
 And let my emotions break their tether  
