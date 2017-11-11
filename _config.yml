@@ -25,9 +25,17 @@ author:
   twitter:      haraprasad_j
   stackoverflow: 4230286/haraprasadj
 
+social:
+  name: Hara Prasad Juvvala
+  links:
+    - https://twitter.com/haraprasad_j
+    - https://www.linkedin.com/in/haraprasadj
+    - https://github.com/haraprasadj
+
 # Custom vars
 version:        3.4.1
 
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
