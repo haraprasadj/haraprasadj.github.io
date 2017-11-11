@@ -5,7 +5,8 @@ title: Home
 
 <div class="catalogue">
     <br>
-    {% for category in site.categories %}
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
     {{category[0].title}}
     <a href="/category/{{ category[0] | downcase }}">{{ category[0] }}({{ category[1].size }})&emsp;</a>
     {% endfor %}
