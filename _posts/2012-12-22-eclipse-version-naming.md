@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eclipse Juno vs Eclipse Helios vs Eclipse !@#$%...
-categories: [Technology]
+categories: [Learnings]
 ---
 
 We began our journey to Selenium and as the first step we were supposed to install Eclipse IDE 
