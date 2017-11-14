@@ -6,7 +6,7 @@ categories: [Technology]
 
 **Google Maps is about finding your way, Google Earth is about getting lost**
 
-Google Earth is built by stitching together pictures and videos taken by satellites, and Google Earth planes, using [Photogrammetry] and multiple other techniques.  
+Google Earth is built by stitching together pictures and videos taken by satellites, and Google Earth planes, using [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) and multiple other techniques.  
 
 This amazing technology is briefly explained the video:  
 
