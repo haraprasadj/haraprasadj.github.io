@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Google Earth's 3D Imagery
-categories: [Technology]
+layout: post  
+title: Google Earth's 3D Imagery  
+categories: [Technology]  
 ---
 
-**Google Maps is about finding your way, Google Earth is about getting lost**
+**Google Maps is about finding your way, Google Earth is about getting lost**  
 
 Google maps is built by stitching together pictures taken by satellites, and Google Maps planes, using [Photogrammetry] and multiple other techniques.  
 
