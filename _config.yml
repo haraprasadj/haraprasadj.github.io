@@ -39,3 +39,7 @@ version:        3.4.1
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-include-cache
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.16.0"
