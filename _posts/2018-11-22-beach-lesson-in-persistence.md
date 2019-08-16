@@ -4,8 +4,7 @@ title: The Beach — A lesson in persistence
 categories: [Musings]
 ---
 
-![Sanur_beach_Bali]({{ "../assets/2017_05_Bali_35.jpg" }})
-{:class="img-responsive"}{:height="350px" width="800px"}
+![Sanur_beach_Bali]({{ "../assets/2017_05_Bali_35.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}
 
 The beach - the ground zero of an eternal war, the war between land and sea.
 
