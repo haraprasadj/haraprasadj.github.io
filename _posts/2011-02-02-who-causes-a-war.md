@@ -4,7 +4,7 @@ title: Who Causes A War ?
 categories: [Musings]  
 ---
 
-![soldiers_stop_fighting]({{ "/assets/2011-02-02-who-causes-a-war.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
+![soldiers_stop_fighting]({{ "../assets/2011-02-02-who-causes-a-war.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  
 
 Every time there is a war we hear people on both sides arguing why the other side is wrong. 
 We also hear third-party comments on who is to blame. So it is important to analyze who caused 
