@@ -4,7 +4,7 @@ title: The Art of Failing
 categories: [Learnings]
 ---
 
-![Failure_is_a_bruise]({{ "/assets/2017-11-7-art-of-failing.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
+![Failure_is_a_bruise]({{ "../assets/2017-11-7-art-of-failing.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  
 
 Failure is more likely to accompany us than success through the journey of life. Success is like spring, the best time of the year, but with us only for 3 months. We have to live through another winter, fall and summer to meet it again.  
  
