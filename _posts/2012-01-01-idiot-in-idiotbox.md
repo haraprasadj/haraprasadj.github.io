@@ -4,7 +4,7 @@ title: Who Is 'Idiot' In Idiotbox ?
 categories: [Writings]  
 ---
 
-![idiotbox]({{ "/assets/2012-01-01-idiot-in-idiotbox.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
+![idiotbox]({{ "../assets/2012-01-01-idiot-in-idiotbox.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  
 
 This question has always tugged at my brain. Why do people refer to a TV as an idiotbox? Is 
 the TV filled with images of idiots? Or, is the person watching the TV an idiot?  

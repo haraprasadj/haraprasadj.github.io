@@ -4,7 +4,7 @@ title: Who Stole My Dough ?
 categories: [Learnings]  
 ---
 
-![Who_stole_my_money]({{ "/assets/2011-02-02-who-stole-my-dough.jpg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
+![Who_stole_my_money]({{ "../assets/2011-02-02-who-stole-my-dough.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  
 
 I heard people narrating stories about how they lost money invested in the stock markets and 
 used to think that they were just a bunch of idiots who invested their money unwisely and blame 

@@ -4,7 +4,7 @@ title: What Do I Need ?
 categories: [Musings]  
 ---
 
-![need_vs_greed]({{ "/assets/2011-02-07-what-do-i-need.jpeg" | absolute_url }}){:class="img-responsive"}{:height="350px" width="800px"}  
+![need_vs_greed]({{ "../assets/2011-02-07-what-do-i-need.jpeg" }}){:class="img-responsive"}{:height="350px" width="800px"}  
 
 "The earth has enough for everyone’s NEED, not for everyone’s GREED." - [Gandhi](http://en.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi)  
 
