@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging An Automated Business Process Test
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 Ever since I started using BPT, one of the pain points has been to effectively debug my BPT

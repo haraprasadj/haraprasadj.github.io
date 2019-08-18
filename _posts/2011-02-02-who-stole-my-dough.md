@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Who Stole My Dough ?  
-categories: [Learnings]  
+categories: [Musings]  
 ---
 
 ![Who_stole_my_money]({{ "../assets/2011-02-02-who-stole-my-dough.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  

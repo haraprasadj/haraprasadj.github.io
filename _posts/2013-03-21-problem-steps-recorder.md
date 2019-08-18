@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problem Steps Recorder (Windows7) - Awesome Tool For Manual Testing
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 Recently came across an amazing tool - Problem Steps Recorder. This comes built in with

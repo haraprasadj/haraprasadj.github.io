@@ -4,7 +4,7 @@ title: Secrets of Success !
 categories: [Learnings]  
 ---
 
-here was a time when I used to read the so-called "Secrets of Success". I used to be enamored 
+There was a time when I used to read the so-called "Secrets of Success". I used to be enamored 
 of the so-called successful people.  
 
 Then came a time when I was faced with failures I thought that the "successful" ones achieved 

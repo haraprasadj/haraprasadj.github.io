@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting XPATH Of An Element In Internet Explorer
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 Knowing the xpath of a web element is very important when using Selenium automation.
