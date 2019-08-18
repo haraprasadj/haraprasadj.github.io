@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running BPT Automated Tests In Normal mode
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 BPT Automated tests run in Fast mode by default, reasonably so. The test execution performance is 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who is the one person we must impress?"
+title: Who is the one person we must impress?
 categories: [Learnings]
 ---
 

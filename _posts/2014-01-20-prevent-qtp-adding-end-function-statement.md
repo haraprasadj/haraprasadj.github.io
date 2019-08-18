@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prevent QTP From Adding Unnecessary 'End Function' Statements
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 QTP is sometimes quirky. One that I encountered is that it adds End Funtion statements that

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selenium - Not Able To Identify Any Element In Internet Exporer
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 While trying to automate on IE using Selenium, I hit a roadblock straight away when none of
