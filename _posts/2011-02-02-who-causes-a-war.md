@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Who Causes A War ?  
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 ![soldiers_stop_fighting]({{ "../assets/2011-02-02-who-causes-a-war.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}  

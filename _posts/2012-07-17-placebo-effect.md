@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Placebo Effect - Proof Of Alternative Medicine ?  
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 A [placebo](http://en.wikipedia.org/wiki/Placebo) is a simulated or otherwise medically 

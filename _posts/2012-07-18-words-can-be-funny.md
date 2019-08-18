@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Words Can Be Funny !  
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 For the first time I realized that the way words sound can be classified as beautiful and ugly. 
