@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating Internet Explorer With Protected Mode On
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 Test automation tools do not work with IE protected mode on. So to successfully automate an

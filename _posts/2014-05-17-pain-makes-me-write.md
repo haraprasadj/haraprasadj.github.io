@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Pain Makes Me Write  
+title: Pain Makes Me A Writer  
 categories: [Writings]  
 ---
 

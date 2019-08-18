@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pitfalls Of Pairwise Testing
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 I am a fan of great testers like James Bach, and like every other tester used his Allpairs

@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Tragic Ending Vs. Tragic Living  
-categories: [Musings]  
+categories: [Learnings]  
 ---
 
 We classify some movies as tragedies. Typically these are movies with a tragic ending where a

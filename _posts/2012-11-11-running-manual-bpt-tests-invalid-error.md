@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running Manual BPT Tests - Invalid Error Shown By QC
-categories: [Software Testing]
+categories: [SoftwareTesting]
 ---
 
 We use QC 10 and seeing the capability of creating BPT components for manual testing, we quickly 
