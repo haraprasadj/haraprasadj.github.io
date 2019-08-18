@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Aham Brahmasmi - Super Ego or Self Realization ?  
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 One of the [Mahavakyas](https://en.wikipedia.org/wiki/Mah%C4%81v%C4%81kyas) from Vedas is 
