@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Enjoy What We Do OR Do What We Enjoy ?  
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 I have heard the statement, "The secret of happiness is enjoying what we have to do" many times.

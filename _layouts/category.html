@@ -12,6 +12,7 @@ layout: default
 
       {% assign preprocessed_content=post.content | replace: '<p>', '__p__' %}
       {% assign preprocessed_content=preprocessed_content | replace: '</p>', '__/p__' %}
+      {% assign preprocessed_content=preprocessed_content | replace: '<br />', '__br__' %}
       {% assign preprocessed_content=preprocessed_content | replace: '<br>', '__br__' %}
       {% assign truncated_content=preprocessed_content | strip_html | truncatewords:50 %}
       {% assign cleaned_content=truncated_content | replace: '__p__', '<p>' %}
@@ -19,7 +20,6 @@ layout: default
       {% assign cleaned_content=cleaned_content | replace: '__br__', '<br>' %}
 
       <p>{{ cleaned_content }}</p>
-
     </div>
   </a>
   {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Who Writes A Tragedy, And Who Likes It ?   
-categories: [Musings]  
+categories: [Reflections]  
 ---
 
 I have always wondered "Why would anyone read a tragedy?". Apparently tragedies made for
