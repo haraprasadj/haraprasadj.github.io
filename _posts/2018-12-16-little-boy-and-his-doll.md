@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Little Boy And His Doll
-categories: [Writings]
+categories: [Story]
 ---
 
 ![doll]({{ "../assets/rhendi-rukmana-H0lTOg1t_0o-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

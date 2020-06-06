@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Death Of A Dream
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![dream]({{ "../assets/javier-penas-kzl1CuupGvw-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "'AMPlify' employee motivation"
-categories: [Learnings]
+categories: [Essay]
 ---
 
-What motivates an employee to come in to work day after day and deliver high quality work? This must have been one of the most researched topics in management.  
- 
+What motivates an employee to come in to work day after day and deliver high quality work? This must have been one of the most researched topics in management.
+
 The best answer was given by Daniel Pink in his bestseller "Drive: The Surprising Truth About What Motivates Us" as **AMP** - **Autonomy**, **Mastery** and **Purpose**.
 
 The concept was also explained beautifully in his TED Talk.

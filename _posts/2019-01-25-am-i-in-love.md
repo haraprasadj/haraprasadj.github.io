@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Am I In Love?
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![her]({{ "../assets/2019-01-25-am-i-in-love.jpeg" }}){:class="img-responsive"}{:height="350px" width="800px"}

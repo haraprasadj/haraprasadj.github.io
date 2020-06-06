@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Handshake - A Love Story
-categories: [Writings]
+categories: [Story]
 ---
 
 ![handshake]({{ "../assets/2019-01-14-handshake.jpeg" }}){:class="img-responsive"}{:height="350px" width="800px"}

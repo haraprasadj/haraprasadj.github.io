@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Heart's Suicide
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![suicide]({{ "../assets/thought-catalog-t0myyq_X4Pg-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

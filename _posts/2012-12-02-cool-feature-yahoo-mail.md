@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Cool Feature! - Yahoo Mail
-categories: [Technology]
+categories: [TechNotes]
 ---
 
 Log in to Yahoo Mail once, default state of "Keep me signed in" checkbox is unchecked.  
-Log in again, default state is now checked.  
+Log in again, default state is now checked.
 
 Great usability scenario in my book.

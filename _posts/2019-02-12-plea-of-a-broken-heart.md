@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plea Of A Broken Heart
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![broken_heart]({{ "../assets/kelly-sikkema-E8H76nY1v6Q-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

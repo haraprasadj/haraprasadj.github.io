@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiptoeing Through Life
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![shattered_glass]({{ "../assets/veeterzy-afq5-t0ZGtQ-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

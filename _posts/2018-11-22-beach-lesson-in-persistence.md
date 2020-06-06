@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beach — A lesson in persistence
-categories: [Writings]
+categories: [Essay]
 ---
 
 ![Sanur_beach_Bali]({{ "../assets/2017_05_Bali_35.JPG" }}){:class="img-responsive"}{:height="350px" width="800px"}

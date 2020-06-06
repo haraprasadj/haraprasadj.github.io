@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Like The Moon, My Son
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![moon]({{ "../assets/lester-salmins-pGCwAAk04BU-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

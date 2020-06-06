@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dream Bike
-categories: [Writings]
+categories: [Story]
 ---
 
 ![bike]({{ "../assets/tim-graf-k6h5_UZ32zo-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}
@@ -14,7 +14,7 @@ He walks back to his bed, seeming dejected, as if he had to go back to sleep and
 
 .
 
-> ***The Previous Day***
+> **_The Previous Day_**
 
 The previous day was an exciting one for him. His parents had taken him to shop for a bicycle. His 5-year-old brain could hardly handle the euphoria and his parents tried hard to curb his enthusiasm, worried that he would break something in the store with his restless fidgeting. But he was just happy to see all the bike and was trying to figure out which one to make his own.
 
@@ -28,7 +28,7 @@ The other store had bikes in their budget and they bought the best-looking one o
 
 .
 
-> ***This Morning***
+> **_This Morning_**
 
 Romi’s mom was baffled by the strange actions of her son this morning. She was worried that he had a nightmare. But it struck her that nightmares usually made him run hard towards her. But, today, he did not even notice her. He seemed to be searching for something. She had no idea and she walked to his bedroom to comfort him.
 

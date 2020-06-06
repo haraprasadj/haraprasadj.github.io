@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Burden Of Hope
-categories: [Writings]
+categories: [Poem]
 ---
 
 ![crushed_boat]({{ "../assets/iker-urteaga-e8dvFP-SAh8-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}

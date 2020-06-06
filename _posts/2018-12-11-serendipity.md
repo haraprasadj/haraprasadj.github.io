@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serendipity - God's Voice Or Universal Mind
-categories: [Reflections]
+categories: [Story]
 ---
 
 I was at a friend's home when smoke started emanating from a switch board. I quickly went to the MCB panel trying to figure out which circuit breaker to trip to cut off power supply to the the switch board. As I was trying each breaker, my friend kept telling me if the light in the room turned off. That was our verification process. I found a combination of two breakers which worked. And, the danger was averted!

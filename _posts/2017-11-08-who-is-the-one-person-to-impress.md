@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who is the one person we must impress?
-categories: [Learnings]
+categories: [Essay]
 ---
 
 Looking at a small child trying to impress all the adults around by showing off each new skill they acquire is an important indication that we seek approval of people around us right from birth. And it is a logical conclusion of the observation that "human being is a social animal".
