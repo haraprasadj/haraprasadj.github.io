@@ -18,7 +18,7 @@ Jose was a retired widower who lived alone in a plush apartment he bought while 
 
 > ***The Intruder***
 
-It was during dinner on one such day that he noticed the intruder. He sat down for dinner with his micorwave dinner and a glass of scotch after switching on the television. He accidentally dropped the remote while flipping through the business channels. As he labored to pick up the remote he noticed the feet of the intruder, all eight of them. He had never seen such a huge spider in his life. He was taken aback and lost his balance and stumbled but quickly regained composure taking support of his large arm chair.
+It was during dinner on one such day that he noticed the intruder. He sat down for dinner with his micorwave dinner and a glass of scotch after switching on the television. He accidentally dropped the remote while flipping through the business channels. As he labored to pick up the remote he noticed the intruder's legs, all eight of them. He had never seen such a huge spider in his life. He was taken aback and lost his balance and stumbled but quickly regained composure taking support of his large arm chair.
 
 As he observed the tarantula that remained still through all this, several questions popped into his mind one after another. Is this real or a toy his granddaughter left behind on her last visit? ... If it is real where could it have come from? ... Is it going to kill him? ... Should he try to kill it before it stings him? ... Is the copy of the Intelligent Investor on his table big enough to kill it by hitting with?
 
