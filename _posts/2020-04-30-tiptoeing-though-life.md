@@ -24,7 +24,7 @@ but the heart hurts more
 Memories, bitter and sour  
 cause more pain  
 than a piece of glass  
-piercing the feet ever can
+piercing the skin ever can
 
 All one can hope  
 is to learn to cope  
