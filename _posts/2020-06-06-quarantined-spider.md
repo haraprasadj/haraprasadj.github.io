@@ -10,13 +10,13 @@ categories: [Story]
 
 Jose Fernandez looked out through the dirty window, peering through his frosted spectacles, looking down at the empty street with only a police car buzzing through every few hours. Jose was not in a prison, he was in New York, in fact in the middle of downtown New York. Just a few weeks ago it seemed like everybody in the country was driving across his building. His attempts at taking short walks always met with angry drivers honking at his weak gait and slow pace. Now the entire street was empty, yet he could not step out.
 
-Those were extraordinary times. The year was 2020 and the entire world was shut down by a virus. Yes, the entire world was quarantined to prevent the spread of a virus. Not one person in the world could have imagined the scenario. It was unprecedented and unforeseen.
+Those were extraordinary times. The entire world was shut down by a virus. Not one person in the world could have imagined the scenario. It was unprecedented and unforeseen.
 
 Jose was a retired widower who lived alone in a plush apartment he bought while working as a stock broker just a few streets away. His maid could no longer visit as she was quarantined too. As a result the apartment was getting dirtier and he was getting grumpier, cursing everyone he remembered even when he could not remember their names for spreading the virus and making his life difficult and depressing.
 
 > ***The Intruder***
 
-It was during dinner on one such day that he noticed the intruder. He sat down for dinner with his micorwave dinner and a glass of scotch after switching on the television. He accidentally dropped the remote while flipping through the business channels. As he labored to pick up the remote he noticed the feet of the intruder, all six of them. He had never seen such a huge spider in his life. He was taken aback and lost his balance and stumbled but quickly regained composure taking support of his large arm chair.
+It was during dinner on one such day that he noticed the intruder. He sat down for dinner with his micorwave dinner and a glass of scotch after switching on the television. He accidentally dropped the remote while flipping through the business channels. As he labored to pick up the remote he noticed the feet of the intruder, all eight of them. He had never seen such a huge spider in his life. He was taken aback and lost his balance and stumbled but quickly regained composure taking support of his large arm chair.
 
 As he observed the tarantula that remained still through all this, several questions popped into his mind one after another. Is this real or a toy his granddaughter left behind on her last visit? ... If it is real where could it have come from? ... Is it going to kill him? ... Should he try to kill it before it stings him? ... Is the copy of the Intelligent Investor on his table big enough to kill it by hitting with?
 
