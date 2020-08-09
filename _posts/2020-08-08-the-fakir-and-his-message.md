@@ -34,7 +34,7 @@ One day one of the villagers asked him a question and the fakir started answerin
 
 The next day the fakir did not return to his spot. The villagers and the pilgrims who enjoyed listening to his kind and wise words were disheartened. One of the devotees who used to lead the singing shouted loudly, "Look at the flowers on the cushion where the master sat. The master's body transformed into these flowers and his soul ascended to the heavens. We must bury the flowers and build a temple here".
 
-Soon enough there was a temple, devotional singing, devotees worshipping the idol by offering money, flowers, fruits, food items and clothes at the feet of the idol. There were also shops that sold articles of worship around the temple, a parking lot for leaving the vehicles, tiny restaurants that sold food to the worshippers who visited from afar. There was in fact a whole new town around the spot.
+Soon enough there was a temple, devotional singing, devotees worshipping the idol by offering money, flowers, fruits, food items and clothes at the feet of the idol. There were also shops that sold articles of worship around the temple, a parking lot for leaving the vehicles, tiny restaurants that sold food to the worshippers who visited from afar. There was, in fact, a whole new town around the spot.
 
 Some were ecstatic that their prayers were answered after visiting the temple, some were dejected that they were not. However, they continued their worship. Each day someone prescribed a new way to worship the fakir, each day there was a new event that brought more people to the temple.
 
