@@ -6,7 +6,7 @@ categories: [Story]
 
 ![fakir]({{ "../assets/nicolas-hans-u2LV_WJdBfQ-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}
 
-It was cloudy day. The time was well past sunrise yet it was dark and gloomy. The old fisherman looked up at the sky, shrugged, picked up his net and walked to the river where his boat was anchored.
+It was a cloudy day. The time was well past sunrise yet it was dark and gloomy. The old fisherman looked up at the sky, shrugged, picked up his net and walked to the river where his boat was anchored.
 
 As he was getting into the boat he noticed an old man wearing ochre robes sitting quietly with his eyes closed by the river bank. He seemed blissful, lost in contemplation. The fisherman did not want to disturb him. So he turned in his direction, bowed in respect with folded hands and went off to catch some fish.
 
