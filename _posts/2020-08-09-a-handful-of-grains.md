@@ -4,7 +4,7 @@ title: A Handful Of Grains
 categories: [Story]
 ---
 
-![grains]({{ "../assets/taneli-lahtinen-oVK10ivMBpU-unsplash.jpg" }}){:class="img-responsive"}{:height="350px" width="800px"}
+![grains]({{ "../assets/taneli-lahtinen-oVK10ivMBpU-unsplash.jpg" }}){:class="img-responsive"}{:height="350px"}
 
 "We need to teach our son the value of money", says the woman to her husband. "He spends all the money we give him on frivolous things"
 
