@@ -3,18 +3,56 @@ layout: default
 title: Home
 ---
 
-<div id="medium-widget"></div>
-<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-<script>
-  MediumWidget.Init({
-    renderTo: "#medium-widget",
-    params: {
-      resource: "https://medium.com/@haraprasad",
-      postsPerLine: 1,
-      limit: 10,
-      picture: "small",
-      fields: ["description", "author", "claps", "publishAt"],
-      ratio: "square",
-    },
-  });
-</script>
+<div class="catalogue">
+    <br>
+    <table>
+        <tr>
+            <td style="width: 80%">
+                {% for post in paginator.posts %}
+                <a href="{{ post.url | prepend: site.baseurl }}" target="_blank" class="catalogue-item">
+                    <div>
+                        <time datetime="{{ post.date }}"
+                            class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+                        <h1 class="catalogue-title">{{ post.title }}</h1>
+                        <div class="catalogue-line"></div>
+
+                        {% assign preprocessed_content=post.content | replace: '<p>', '__p__' %}
+                        {% assign preprocessed_content=preprocessed_content | replace: '</p>', '__/p__' %}
+                        {% assign preprocessed_content=preprocessed_content | replace: '<br>', '__br__' %}
+                        {% assign preprocessed_content=preprocessed_content | replace: '<br />', '__br__' %}
+                        {% assign truncated_content=preprocessed_content | strip_html | truncatewords:50 %}
+                        {% assign cleaned_content=truncated_content | replace: '__p__', '<p>' %}
+                        {% assign cleaned_content=cleaned_content | replace: '__/p__', '</p>' %}
+                        {% assign cleaned_content=cleaned_content | replace: '__br__', '<br>' %}
+
+                        <p>{{ cleaned_content }}</p>
+
+                    </div>
+                </a>
+                {% endfor %}
+            </td>
+            <td style="width: 5%"></td>
+            <td style="font-size: small;width: 15%">
+                <br><br>
+                CATEGORIES
+                <br><br>
+                {% assign categories = site.categories | sort %}
+                {% for category in categories %}
+                {{category[0].title}}
+                <a href="/category/{{ category[0] | downcase }}">{{ category[0] }}({{ category[1].size }})&emsp;</a>
+                {% endfor %}
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    {% endif %}
+
+    <span>{{ paginator.page }}</span>
+</div>
